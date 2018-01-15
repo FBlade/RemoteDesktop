@@ -10,3 +10,15 @@ C:\Users\Jason\Dropbox\RemoteDesktop\Network\bin\Debug\Microsoft.CompilerService
 C:\Users\Jason\Dropbox\RemoteDesktop\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
 C:\Users\Jason\Dropbox\RemoteDesktop\Network\obj\Debug\Network.dll
 C:\Users\Jason\Dropbox\RemoteDesktop\Network\obj\Debug\Network.pdb
+D:\GitHubKamae\RemoteDesktop\Network\bin\Debug\Network.dll
+D:\GitHubKamae\RemoteDesktop\Network\bin\Debug\Network.pdb
+D:\GitHubKamae\RemoteDesktop\Network\bin\Debug\Lidgren.Network.dll
+D:\GitHubKamae\RemoteDesktop\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+D:\GitHubKamae\RemoteDesktop\Network\bin\Debug\Model.dll
+D:\GitHubKamae\RemoteDesktop\Network\bin\Debug\Nini.dll
+D:\GitHubKamae\RemoteDesktop\Network\bin\Debug\Model.pdb
+D:\GitHubKamae\RemoteDesktop\Network\bin\Debug\Lidgren.Network.pdb
+D:\GitHubKamae\RemoteDesktop\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+D:\GitHubKamae\RemoteDesktop\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+D:\GitHubKamae\RemoteDesktop\Network\obj\Debug\Network.dll
+D:\GitHubKamae\RemoteDesktop\Network\obj\Debug\Network.pdb

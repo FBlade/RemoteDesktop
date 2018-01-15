@@ -2,3 +2,8 @@ C:\Users\Jason\Dropbox\RemoteDesktop\MirrorDriver\bin\Debug\MirrorDriver.dll
 C:\Users\Jason\Dropbox\RemoteDesktop\MirrorDriver\bin\Debug\MirrorDriver.pdb
 C:\Users\Jason\Dropbox\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.dll
 C:\Users\Jason\Dropbox\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.pdb
+D:\GitHubKamae\RemoteDesktop\MirrorDriver\bin\Debug\MirrorDriver.dll
+D:\GitHubKamae\RemoteDesktop\MirrorDriver\bin\Debug\MirrorDriver.pdb
+D:\GitHubKamae\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.csprojResolveAssemblyReference.cache
+D:\GitHubKamae\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.dll
+D:\GitHubKamae\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.pdb

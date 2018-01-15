@@ -12,3 +12,17 @@ C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\Lidgren.Network.pdb
 C:\Users\Jason\Dropbox\RemoteDesktop\Providers\obj\Debug\Providers.csprojResolveAssemblyReference.cache
 C:\Users\Jason\Dropbox\RemoteDesktop\Providers\obj\Debug\Providers.dll
 C:\Users\Jason\Dropbox\RemoteDesktop\Providers\obj\Debug\Providers.pdb
+D:\GitHubKamae\RemoteDesktop\Providers\bin\Debug\Providers.dll
+D:\GitHubKamae\RemoteDesktop\Providers\bin\Debug\Providers.pdb
+D:\GitHubKamae\RemoteDesktop\Providers\bin\Debug\Lidgren.Network.dll
+D:\GitHubKamae\RemoteDesktop\Providers\bin\Debug\MirrorDriver.dll
+D:\GitHubKamae\RemoteDesktop\Providers\bin\Debug\Model.dll
+D:\GitHubKamae\RemoteDesktop\Providers\bin\Debug\Network.dll
+D:\GitHubKamae\RemoteDesktop\Providers\bin\Debug\Nini.dll
+D:\GitHubKamae\RemoteDesktop\Providers\bin\Debug\MirrorDriver.pdb
+D:\GitHubKamae\RemoteDesktop\Providers\bin\Debug\Model.pdb
+D:\GitHubKamae\RemoteDesktop\Providers\bin\Debug\Network.pdb
+D:\GitHubKamae\RemoteDesktop\Providers\bin\Debug\Lidgren.Network.pdb
+D:\GitHubKamae\RemoteDesktop\Providers\obj\Debug\Providers.csprojResolveAssemblyReference.cache
+D:\GitHubKamae\RemoteDesktop\Providers\obj\Debug\Providers.dll
+D:\GitHubKamae\RemoteDesktop\Providers\obj\Debug\Providers.pdb

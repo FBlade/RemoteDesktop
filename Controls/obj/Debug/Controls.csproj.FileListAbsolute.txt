@@ -3,3 +3,8 @@ C:\Users\Jason\Dropbox\RemoteDesktop\Controls\bin\Debug\Controls.pdb
 C:\Users\Jason\Dropbox\RemoteDesktop\Controls\obj\Debug\Controls.dll
 C:\Users\Jason\Dropbox\RemoteDesktop\Controls\obj\Debug\Controls.pdb
 C:\Users\Jason\Dropbox\RemoteDesktop\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache
+D:\GitHubKamae\RemoteDesktop\Controls\bin\Debug\Controls.dll
+D:\GitHubKamae\RemoteDesktop\Controls\bin\Debug\Controls.pdb
+D:\GitHubKamae\RemoteDesktop\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache
+D:\GitHubKamae\RemoteDesktop\Controls\obj\Debug\Controls.dll
+D:\GitHubKamae\RemoteDesktop\Controls\obj\Debug\Controls.pdb
